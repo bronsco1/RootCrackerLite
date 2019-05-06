@@ -1,4 +1,4 @@
-# comp4108_rootCrackerLite
+# RootCrackerLite
 Exploits vuln_slow into writing a message of your choice into root_file.
 
 Check permissions of vuln_slow :  
